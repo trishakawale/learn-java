@@ -11,7 +11,7 @@ if(a>b){
 System.out.println("a greter");
 }
 else{
-System.out.println("b greter");
+System.out.println("b Greter");
 }
 }
 }
