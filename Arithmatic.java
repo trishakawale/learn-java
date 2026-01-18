@@ -9,5 +9,8 @@ public static void main(String args[])
     b=obj.nextInt();
     System.out.println("ADDITION "+(a+b));
     System.out.println("SUBSTRACTION "+(a-b));
+    System.out.println("Division "+(a/b));
+    System.out.println("Multiplication "+(a*b));
+    System.out.println("Reminder "+(a%b));
 }
 }
