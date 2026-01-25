@@ -1,4 +1,3 @@
-// Program to demonstrate Copy Constructor in Java
 
 class Student {
     int rollNo;
